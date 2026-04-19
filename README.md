@@ -1,9 +1,4 @@
-Here is a highly detailed, professional-grade `README.md` file. It is structured to act as a complete portfolio piece that thoroughly explains your methodology, business value, and technical execution to recruiters or senior engineers viewing your GitHub.
-
-You can copy and paste everything inside the code block below directly into your repository's `README.md` file. Make sure your image files are named `dashboard-1.png`, `dashboard-2.png`, and `dashboard-3.png` (or update the file names in the code below to match your screenshots).
-
-```markdown
-<h1 align="center">HR Employee Attrition Analytics Pipeline & Dashboard</h1>
+### HR Employee Attrition Analytics Pipeline & Dashboard
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
