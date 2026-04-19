@@ -17,16 +17,10 @@
 ## 📊 Dashboard Previews
 
 <p align="center">
-  <img src="./dashboard-1.png" alt="HR Analytics Main Dashboard" width="850">
+  <img width="1295" height="729" alt="Dashboard_for_Task_3" src="https://github.com/user-attachments/assets/55024ddf-7156-4b00-b6f9-3980b60ac207" />
+
 </p>
 
-<p align="center">
-  <img src="./dashboard-2.png" alt="HR Analytics Department Breakdown" width="850">
-</p>
-
-<p align="center">
-  <img src="./dashboard-3.png" alt="HR Analytics Role & Demographics" width="850">
-</p>
 
 ---
 
@@ -155,7 +149,7 @@ To further elevate this project, future iterations could include:
 ## 👨‍💻 Author
 **Abdul Rahman** Information Science Engineering | Data Science & Full Stack Development Enthusiast based in Bangalore.
 
-* [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-* [GitHub Profile](https://github.com/yourusername)
-* **Email:** yourmail@example.com
+* [LinkedIn Profile](www.linkedin.com/in/abdul-rahman-56117b291)
+* [GitHub Profile](https://github.com/abdulrahmanshariff1286-rgb)
+* **Email:** abdulrahmanshariff1286@gmail.com
 ```
