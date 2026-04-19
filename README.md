@@ -86,8 +86,6 @@ Based on the execution of the analytical pipeline:
 
 ---
 
----
-
 ## 💻 Installation & Reproduction
 
 ### Prerequisites
