@@ -30,7 +30,6 @@
 - [Dataset Overview](#-dataset-overview)
 - [Methodology & Architecture](#-methodology--architecture)
 - [Key Business Insights](#-key-business-insights)
-- [Repository Structure](#-repository-structure)
 - [Installation & Reproduction](#-installation--reproduction)
 - [Future Scope](#-future-scope)
 - [Author](#-author)
@@ -86,27 +85,6 @@ Based on the execution of the analytical pipeline:
 * **Role-Specific Turnover:** By sorting the grouped data in descending order, the analysis immediately surfaces the most vulnerable job roles, indicating potential systemic issues with compensation, career progression, or burnout in those specific positions.
 
 ---
-
-## 🗂️ Repository Structure
-
-```text
-📦 HR-Attrition-Analytics
- ┣ 📂 Data/
- ┃ ┣ 📜 HR_Attrition.csv                          # Primary raw dataset
- ┃ ┗ 📜 WA_Fn-UseC_-HR-Employee-Attrition.csv     # Extended feature dataset
- ┣ 📂 Scripts/
- ┃ ┗ 📜 HR_Data_Exploration_for_Task_3.py         # Main Python EDA & processing script
- ┣ 📂 Dashboard/
- ┃ ┗ 📜 Task_3_dashboard.pbix                     # Interactive Power BI file
- ┣ 📂 Output/
- ┃ ┣ 📜 attrition_by_department.csv               # Script-generated metric
- ┃ ┣ 📜 attrition_by_role.csv                     # Script-generated metric
- ┃ ┗ 🖼️ attrition_by_department.png               # Script-generated visualization
- ┣ 🖼️ dashboard-1.png                             # README UI preview
- ┣ 🖼️ dashboard-2.png                             # README UI preview
- ┣ 🖼️ dashboard-3.png                             # README UI preview
- ┗ 📜 README.md                                   # Project documentation
-```
 
 ---
 
